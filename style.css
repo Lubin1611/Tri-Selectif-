@@ -7,6 +7,10 @@ body {
     display: block;
 }
 
+#containerScores {
+
+    display: none;
+}
 
 #liste_dechets {
     border : 2px black solid;
