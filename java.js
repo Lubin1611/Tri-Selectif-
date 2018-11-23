@@ -128,7 +128,7 @@ function nextBtn() {
         document.getElementById("containerJeu").style.display = "none";
         document.getElementById("containerScores").style.display = "block";
 
-        document.getElementById("scoreAffich").innerHTML = "Bravo, vous avez " + essais + " bonnes réponses, sur 10.";
+        document.getElementById("scoreAffich").innerHTML = "Bravo, vous avez " + bonneRep + " bonnes réponses, sur 10.";
         document.getElementById("scoreAffich").style.border = "3px black solid";
         document.getElementById("scoreAffich").style.width = "500px";
         document.getElementById("scoreAffich").style.backgroundColor = "white";
