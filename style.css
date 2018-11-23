@@ -2,6 +2,12 @@ body {
     background-color: #106900;
 }
 
+#containerJeu {
+
+    display: block;
+}
+
+
 #liste_dechets {
     border : 2px black solid;
     background-color: white;
@@ -84,3 +90,127 @@ body {
     margin-left: 45%;
 }
 
+#bouteille {
+
+    background-image: url("bouteille.jpg");
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 70%;
+    left: 45%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#conserve {
+
+    background-image: url("conserve.png");
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 70%;
+    left: 45%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#journal {
+
+    background-image: url("journal.jpg");
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 70%;
+    left: 45%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#pile {
+    background-image: url("pile.jpg");
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 70%;
+    left: 45%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#restes {
+
+    background-image: url("restes.jpg");
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 70%;
+    left: 45%;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+#bouteillevin {
+
+    background-image: url("bouteillevin.jpg");
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 70%;
+    left: 45%;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+#magazine {
+
+    background-image: url("magazine.jpg");
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 70%;
+    left: 45%;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+#coca {
+
+    background-image: url("coca.jpg");
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 70%;
+    left: 45%;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+#pastis {
+
+    background-image: url("pastis.jpg");
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 70%;
+    left: 45%;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+#potyaourt {
+
+    background-image: url("yaourt.jpg");
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    top: 70%;
+    left: 45%;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
